@@ -60,7 +60,8 @@ body {
 .addArtistForm input {
     width: 90%;
     padding: 5px 10px;
-    margin: 10px auto;
+    margin: 0px auto;
+    text-align: center;
     border-radius: 1px;
     border: 1px solid rgba(0,0,0,0);
     height: 20px;
